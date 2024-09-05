@@ -1,0 +1,8 @@
+2024/09/04-16:19:48.003 5 Creating DB /home/symphony/.config/microsoft-edge/Default/Session Storage since it was missing.
+2024/09/04-16:19:48.214 5 Reusing MANIFEST /home/symphony/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
+2024/09/04-16:26:44.352 5 Level-0 table #5: started
+2024/09/04-16:26:44.405 5 Level-0 table #5: 23209 bytes OK
+2024/09/04-16:26:44.439 5 Delete type=0 #3
+2024/09/04-16:31:35.082 4 Level-0 table #7: started
+2024/09/04-16:31:35.127 4 Level-0 table #7: 17176 bytes OK
+2024/09/04-16:31:35.161 4 Delete type=0 #4

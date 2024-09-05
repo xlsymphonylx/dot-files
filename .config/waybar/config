@@ -1,0 +1,99 @@
+[{
+    "layer": "bottom",
+    "position" : "bottom",
+    "height" : 40,
+    "name" : "bottomWaybar",
+    "modules-left": ["hyprland/workspaces"],
+    "modules-center": [],
+    "modules-right": ["tray","clock", "custom/power"],
+    "custom/power": {
+        "format": "  ",  // Display the power icon without running the script
+        "interval": 0,      // No need to refresh the icon
+        "tooltip": false,
+        "on-click": "~/.config/waybar/power-menu.lua"
+    },
+   "clock": {
+        "format": " {:%H:%M %p}",
+        "format-alt": " {:%a, %d. %b  %H:%M %p}"
+    },
+    "tray": {
+        "icon-size": 18,
+        "spacing": 13
+    },
+    "hyprland/workspaces": {
+    "format": "{icon}",
+    "on-click": "activate",
+    "format-icons": {
+        "1": "  Chats",
+        "2": "  Web",
+        "3": " Programming",
+        "4": "  Bash",
+        "5": "  Work",
+        "6": "  Media",
+        "7": "  Steam",
+        "8": "  Files",
+        "9": "  Extra",
+      },
+    "active-only" : false,
+    "sort-by-number": true,
+
+    "persistent-workspaces": {
+        "1": [],
+        "2": [],
+        "3": [], 
+        "4": [], 
+        "5": [], 
+        "6": [], 
+        "7": [], 
+        "8": [], 
+        "9": [], 
+      }
+    }
+}
+,
+{
+  "layer": "bottom",
+  "position" : "top",
+  "height" : 40,
+  "name" : "topWaybar",
+  "modules-left": ["cpu" , "memory" , "network"],
+  "modules-center": ["hyprland/window"],
+  "modules-right": ["custom/spotify", "wireplumber"],
+  "cpu": {
+    "interval": 10,
+    "format": "   CPU {}%",
+  },
+  "memory": {
+    "interval": 30,
+    "format": " 󰘚 RAM {}%",
+  },
+  "network": {
+    "interface": "enp5s0",
+    "format": " 󰌘 {bandwidthDownBits}  / {bandwidthUpBits}  ",
+    "format-disconnected": "Disconnected", //An empty format will hide the module.
+    "tooltip-format": "{ifname} via {gwaddr} 󰊗",
+    "tooltip-format-disconnected": "Disconnected",
+    "interval" : 1,
+  },
+  "hyprland/window": {
+    "icon": true
+  },
+  "wireplumber": {
+    "format": "    {volume}% ",
+    "format-muted": "  Muted ",
+    "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",
+    "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%",
+    "on-click": "pavucontrol",
+    "on-click-right" : "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+    "max-volume": 150,
+    "scroll-step": 0.2
+  },
+  "custom/spotify": {
+    "exec": "/usr/bin/python3 ~/.config/waybar/mediaplayer.py --player spotify",
+    "format": "{}",
+    "return-type": "json",
+    "on-click": "playerctl play-pause",
+    "on-scroll-up": "playerctl next",
+    "on-scroll-down": "playerctl previous"
+  },
+}]

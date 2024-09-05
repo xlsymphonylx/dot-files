@@ -1,0 +1,14 @@
+2024/09/04-16:20:50.175 ec4c Creating DB /home/symphony/.config/microsoft-edge/Default/Local Extension Settings/dkkdbpgldnmkhcliffjpajcfdjkcaddf since it was missing.
+2024/09/04-16:20:50.238 ec4c Reusing MANIFEST /home/symphony/.config/microsoft-edge/Default/Local Extension Settings/dkkdbpgldnmkhcliffjpajcfdjkcaddf/MANIFEST-000001
+2024/09/04-16:26:14.972 ec4d Level-0 table #5: started
+2024/09/04-16:26:15.010 ec4d Level-0 table #5: 1005284 bytes OK
+2024/09/04-16:26:15.044 ec4d Delete type=0 #3
+2024/09/04-16:26:15.405 ec4d Level-0 table #7: started
+2024/09/04-16:26:15.483 ec4d Level-0 table #7: 2567065 bytes OK
+2024/09/04-16:26:15.517 ec4d Delete type=0 #4
+2024/09/04-16:28:15.762 ec4c Level-0 table #9: started
+2024/09/04-16:28:15.843 ec4c Level-0 table #9: 2173014 bytes OK
+2024/09/04-16:28:15.877 ec4c Delete type=0 #6
+2024/09/04-16:28:15.906 ec4c Level-0 table #11: started
+2024/09/04-16:28:15.967 ec4c Level-0 table #11: 3472355 bytes OK
+2024/09/04-16:28:16.001 ec4c Delete type=0 #8

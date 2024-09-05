@@ -1,0 +1,5 @@
+2024/09/04-16:19:47.926 4 Creating DB /home/symphony/.config/microsoft-edge/Default/Local Storage/leveldb since it was missing.
+2024/09/04-16:19:48.063 4 Reusing MANIFEST /home/symphony/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2024/09/04-16:20:50.226 5 Level-0 table #5: started
+2024/09/04-16:20:50.261 5 Level-0 table #5: 86881 bytes OK
+2024/09/04-16:20:50.307 5 Delete type=0 #3

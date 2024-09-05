@@ -1,0 +1,37 @@
+* {
+  font-family: RobotoMono Nerd Font;
+  font-weight: bold;
+}
+
+#window {
+  margin: 0px;
+  border: 2px solid #ea00d9;
+  border-radius: 10px;
+  width: 1px;
+}
+
+#input {
+  margin: 10px;
+  border: none;
+  color: #f8f8f2;
+}
+
+#inner-box {
+  margin: 5px;
+  border: none;
+}
+
+#outer-box {
+  margin: 5px;
+  border: none;
+}
+
+#text {
+  margin: 5px;
+  border: none;
+  color: #f8f8f2;
+}
+
+#entry:selected {
+  background-color: #c50ed2;
+}

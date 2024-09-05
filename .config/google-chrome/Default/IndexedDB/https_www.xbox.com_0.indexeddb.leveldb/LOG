@@ -1,0 +1,12 @@
+2024/09/04-15:34:41.495 aadf Reusing MANIFEST /home/symphony/.config/google-chrome/Default/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/04-15:34:41.495 aadf Recovering log #4
+2024/09/04-15:34:41.526 aadf Reusing old log /home/symphony/.config/google-chrome/Default/IndexedDB/https_www.xbox.com_0.indexeddb.leveldb/000004.log 
+2024/09/04-15:53:01.201 aae7 Level-0 table #8: started
+2024/09/04-15:53:01.268 aae7 Level-0 table #8: 1037735 bytes OK
+2024/09/04-15:53:01.303 aae7 Delete type=0 #4
+2024/09/04-15:54:20.385 aae0 Compacting 1@1 + 1@2 files
+2024/09/04-15:54:20.457 aae0 Generated table #9@1: 12480 keys, 605592 bytes
+2024/09/04-15:54:20.458 aae0 Compacted 1@1 + 1@2 files => 605592 bytes
+2024/09/04-15:54:20.491 aae0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/04-15:54:20.491 aae0 Delete type=2 #5
+2024/09/04-15:54:20.491 aae0 Delete type=2 #8

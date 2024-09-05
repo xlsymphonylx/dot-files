@@ -1,0 +1,132 @@
+/* * { */
+/*   --normal-background :rgba(0,0,0,0.75)*/
+/*   --active-background : #0ABDC6 */
+/*   --normal-foreground :#EA00D9; */
+/*   --active-foreground : #091833; */
+/*   --highlight : #0ABDC6; */
+/*   --danger-color : #FF0000; */
+/*   --success-color : #03ee06; */
+/* } */
+
+* {
+  font-weight: bold;
+  min-height: 0;
+  padding: 0;
+  margin: 0rem;
+  font-size: 15px;
+  font-family: RobotoMono Nerd Font;
+}
+
+window#waybar {
+  background-color: rgba(0, 0, 0, 0);
+}
+#workspaces {
+  border-radius: 5px;
+}
+#workspaces button {
+  background: rgba(0, 0, 0, 0.95);
+  padding: 2px 10px;
+  color: #fff;
+  border-radius: 0px;
+}
+
+#workspaces button.empty {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+#workspaces button.active {
+  color: #0abdc6;
+}
+#workspaces button:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+#workspaces button:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.horizontal .modules-left,
+.horizontal .modules-right {
+  border: 2px solid #ea00d9;
+  background: rgba(0, 0, 0, 0.65);
+  border-radius: 5px;
+}
+
+.modules-left {
+  margin-top: 5px;
+  margin-left: 20px;
+}
+.modules-right {
+  margin-top: 5px;
+  margin-right: 20px;
+}
+#tray,
+#clock,
+#custom-power,
+#cpu,
+#memory,
+#network {
+  padding-right: 10px;
+  color: #ea00d9;
+}
+
+#tray,
+#cpu,
+#custom-spotify {
+  border-right: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  color: #0abdc6;
+}
+
+#memory {
+  border-right: 0;
+  border-left: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  color: #fff;
+}
+
+#clock {
+  border-right: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  color: #fff;
+  margin-left: 5px;
+}
+
+#custom-power,
+#network {
+  border-left: 0;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  color: #03ee06;
+}
+
+#tray {
+  padding-left: 10px;
+  padding-right: 0px;
+}
+
+#wireplumber {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-right: 10px;
+  margin-left: 5px;
+  color: #f57800;
+}
+#custom-power {
+  color: #ff0000;
+}
+
+#custom-spotify {
+  margin-left: 10px;
+}
+
+#window {
+  color: #ea00d9;
+}

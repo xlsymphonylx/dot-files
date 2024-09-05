@@ -1,0 +1,39 @@
+2024/09/04-09:43:30.567 14f6 Reusing MANIFEST /home/symphony/.config/google-chrome/Default/Local Extension Settings/hnmpcagpplmpfojmgmnngilcnanddlhb/MANIFEST-000001
+2024/09/04-09:43:30.567 14f6 Recovering log #12
+2024/09/04-09:43:30.652 14f6 Reusing old log /home/symphony/.config/google-chrome/Default/Local Extension Settings/hnmpcagpplmpfojmgmnngilcnanddlhb/000012.log 
+2024/09/04-10:30:46.388 14f5 Level-0 table #16: started
+2024/09/04-10:30:46.449 14f5 Level-0 table #16: 801805 bytes OK
+2024/09/04-10:30:46.483 14f5 Delete type=0 #12
+2024/09/04-10:30:46.484 14f5 Compacting 4@0 + 1@1 files
+2024/09/04-10:30:46.523 14f5 Generated table #17@0: 29 keys, 794091 bytes
+2024/09/04-10:30:46.523 14f5 Compacted 4@0 + 1@1 files => 794091 bytes
+2024/09/04-10:30:46.557 14f5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/04-10:30:46.557 14f5 Delete type=2 #7
+2024/09/04-10:30:46.557 14f5 Delete type=2 #9
+2024/09/04-10:30:46.557 14f5 Delete type=2 #13
+2024/09/04-10:30:46.557 14f5 Delete type=2 #11
+2024/09/04-10:30:46.557 14f5 Delete type=2 #16
+2024/09/04-10:30:46.805 14f5 Level-0 table #19: started
+2024/09/04-10:30:46.893 14f5 Level-0 table #19: 2112357 bytes OK
+2024/09/04-10:30:46.951 14f5 Delete type=0 #15
+2024/09/04-10:30:47.267 14f5 Level-0 table #21: started
+2024/09/04-10:30:47.331 14f5 Level-0 table #21: 2043484 bytes OK
+2024/09/04-10:30:47.366 14f5 Delete type=0 #18
+2024/09/04-10:32:47.433 14f5 Level-0 table #23: started
+2024/09/04-10:32:47.492 14f5 Level-0 table #23: 3124046 bytes OK
+2024/09/04-10:32:47.526 14f5 Delete type=0 #20
+2024/09/04-10:33:33.130 14f5 Level-0 table #25: started
+2024/09/04-10:33:33.205 14f5 Level-0 table #25: 2163018 bytes OK
+2024/09/04-10:33:33.239 14f5 Delete type=0 #22
+2024/09/04-10:33:33.240 14f5 Compacting 4@0 + 1@1 files
+2024/09/04-10:33:33.298 14f5 Generated table #26@0: 9 keys, 2357524 bytes
+2024/09/04-10:33:33.358 14f5 Generated table #27@0: 7 keys, 2248610 bytes
+2024/09/04-10:33:33.455 14f5 Generated table #28@0: 7 keys, 4365192 bytes
+2024/09/04-10:33:33.517 14f5 Generated table #29@0: 6 keys, 1211745 bytes
+2024/09/04-10:33:33.517 14f5 Compacted 4@0 + 1@1 files => 10183071 bytes
+2024/09/04-10:33:33.551 14f5 compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/09/04-10:33:33.551 14f5 Delete type=2 #17
+2024/09/04-10:33:33.551 14f5 Delete type=2 #23
+2024/09/04-10:33:33.551 14f5 Delete type=2 #21
+2024/09/04-10:33:33.551 14f5 Delete type=2 #25
+2024/09/04-10:33:33.551 14f5 Delete type=2 #19

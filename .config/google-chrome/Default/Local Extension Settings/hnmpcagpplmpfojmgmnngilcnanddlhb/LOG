@@ -1,0 +1,31 @@
+2024/09/04-15:34:34.178 aae0 Reusing MANIFEST /home/symphony/.config/google-chrome/Default/Local Extension Settings/hnmpcagpplmpfojmgmnngilcnanddlhb/MANIFEST-000001
+2024/09/04-15:34:34.178 aae0 Recovering log #24
+2024/09/04-15:34:34.178 aae0 Reusing old log /home/symphony/.config/google-chrome/Default/Local Extension Settings/hnmpcagpplmpfojmgmnngilcnanddlhb/000024.log 
+2024/09/04-15:34:37.739 aadf Level-0 table #32: started
+2024/09/04-15:34:37.817 aadf Level-0 table #32: 1495985 bytes OK
+2024/09/04-15:34:37.851 aadf Delete type=0 #24
+2024/09/04-15:34:38.053 aadf Level-0 table #34: started
+2024/09/04-15:34:38.198 aadf Level-0 table #34: 2042658 bytes OK
+2024/09/04-15:34:38.232 aadf Delete type=0 #31
+2024/09/04-15:36:38.436 aae0 Level-0 table #36: started
+2024/09/04-15:36:38.519 aade Current memtable full; waiting...
+2024/09/04-15:36:38.538 aae0 Level-0 table #36: 2171956 bytes OK
+2024/09/04-15:36:38.594 aae0 Delete type=0 #33
+2024/09/04-15:36:38.595 aadf Level-0 table #38: started
+2024/09/04-15:36:38.662 aadf Level-0 table #38: 3464270 bytes OK
+2024/09/04-15:36:38.696 aadf Delete type=0 #35
+2024/09/04-15:36:38.696 aadf Compacting 4@0 + 4@1 files
+2024/09/04-15:36:38.766 aadf Generated table #39@0: 9 keys, 2356905 bytes
+2024/09/04-15:36:38.826 aadf Generated table #40@0: 7 keys, 2248052 bytes
+2024/09/04-15:36:38.933 aadf Generated table #41@0: 7 keys, 4395032 bytes
+2024/09/04-15:36:38.957 aadf Generated table #42@0: 6 keys, 164207 bytes
+2024/09/04-15:36:38.957 aadf Compacted 4@0 + 4@1 files => 9164196 bytes
+2024/09/04-15:36:38.991 aadf compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/09/04-15:36:38.991 aadf Delete type=2 #36
+2024/09/04-15:36:38.991 aadf Delete type=2 #38
+2024/09/04-15:36:38.991 aadf Delete type=2 #32
+2024/09/04-15:36:38.991 aadf Delete type=2 #29
+2024/09/04-15:36:38.991 aadf Delete type=2 #26
+2024/09/04-15:36:38.991 aadf Delete type=2 #28
+2024/09/04-15:36:38.991 aadf Delete type=2 #27
+2024/09/04-15:36:38.991 aadf Delete type=2 #34

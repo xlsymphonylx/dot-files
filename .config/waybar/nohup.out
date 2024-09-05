@@ -1,0 +1,168 @@
+[2024-08-26 09:18:49.354] [info] Using configuration file /home/symphony/.config/waybar/config
+[2024-08-26 09:18:49.356] [info] Discovered appearance 'dark'
+[2024-08-26 09:18:49.356] [info] Using CSS file /home/symphony/.config/waybar/style.css
+[2024-08-26 09:18:49.360] [info] Hyprland IPC starting
+[2024-08-26 09:18:49.362] [info] Loading persistent workspaces from Waybar config
+[2024-08-26 09:18:49.362] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-08-26 09:18:49.505] [info] Bar configured (width: 1920, height: 40) for output: DP-2
+[2024-08-26 09:18:49.505] [info] Bar configured (width: 1920, height: 40) for output: DP-2
+
+(waybar:32977): Gtk-CRITICAL **: 09:18:49.534: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:32977): Gtk-CRITICAL **: 09:18:49.534: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2024-08-26 09:18:51.542] [warning] [wireplumber]: (onMixerChanged) - Object with id 90 not found
+[2024-08-26 09:18:51.551] [warning] [wireplumber]: (onMixerChanged) - Object with id 90 not found
+[2024-08-26 09:18:51.554] [warning] [wireplumber]: (onMixerChanged) - Object with id 90 not found
+[2024-08-26 09:19:13.731] [warning] [wireplumber]: (onMixerChanged) - Object with id 117 not found
+[2024-08-26 09:19:13.949] [warning] [wireplumber]: (onMixerChanged) - Object with id 117 not found
+[2024-08-26 09:19:25.420] [warning] [wireplumber]: (onMixerChanged) - Object with id 94 not found
+[2024-08-26 09:19:25.431] [warning] [wireplumber]: (onMixerChanged) - Object with id 94 not found
+[2024-08-26 09:19:25.434] [warning] [wireplumber]: (onMixerChanged) - Object with id 94 not found
+[2024-08-26 09:19:50.184] [warning] [wireplumber]: (onMixerChanged) - Object with id 90 not found
+[2024-08-26 09:19:50.193] [warning] [wireplumber]: (onMixerChanged) - Object with id 90 not found
+[2024-08-26 09:19:50.196] [warning] [wireplumber]: (onMixerChanged) - Object with id 90 not found
+[2024-08-26 09:19:53.613] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:19:53.623] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:19:53.627] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:19:54.366] [warning] [wireplumber]: (onMixerChanged) - Object with id 94 not found
+[2024-08-26 09:19:54.377] [warning] [wireplumber]: (onMixerChanged) - Object with id 94 not found
+[2024-08-26 09:19:54.381] [warning] [wireplumber]: (onMixerChanged) - Object with id 94 not found
+[2024-08-26 09:21:25.067] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:21:25.076] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:21:25.080] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:21:26.995] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:21:27.006] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:21:27.010] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:21:37.567] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:21:37.601] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:21:37.606] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:23:25.659] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:23:25.671] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:23:25.674] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:24:10.452] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:24:10.461] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:24:10.464] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:24:26.933] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:24:26.948] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:24:26.951] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:24:27.877] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:24:27.885] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:24:27.888] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:26:53.648] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:26:53.657] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:26:53.660] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:28:07.134] [warning] [wireplumber]: (onMixerChanged) - Object with id 117 not found
+[2024-08-26 09:28:07.175] [warning] [wireplumber]: (onMixerChanged) - Object with id 117 not found
+[2024-08-26 09:28:07.235] [warning] [wireplumber]: (onMixerChanged) - Object with id 117 not found
+[2024-08-26 09:28:16.214] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:28:16.223] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:28:16.226] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:30:18.990] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:30:18.998] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:30:19.002] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:37:29.621] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:37:29.630] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:37:29.633] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:37:29.633] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:37:32.647] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:37:32.652] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:37:32.664] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:12.380] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:38:12.393] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:38:12.398] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:38:12.399] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:38:40.946] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:40.956] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:40.960] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:40.960] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:43.263] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:43.273] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:43.276] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:43.277] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:45.510] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:45.519] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:45.523] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:38:45.523] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:39:48.658] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:39:48.668] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:39:48.671] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:39:48.672] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:39:51.925] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:39:51.931] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:39:51.951] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:39:52.008] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:39:52.013] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:41:56.090] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:41:56.102] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:41:56.105] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:41:56.106] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:11.861] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.163] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.169] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.178] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.191] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.204] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.211] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.228] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.233] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.242] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:42:12.295] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:43:53.261] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:43:53.270] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:43:53.273] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:43:53.274] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:07.964] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:07.973] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:07.976] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:07.977] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.697] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.708] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.717] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.726] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.732] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.745] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.751] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.760] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.765] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.774] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.779] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.786] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.794] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.800] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:46:12.821] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+
+(waybar:32977): Gtk-CRITICAL **: 09:46:23.500: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:32977): Gtk-CRITICAL **: 09:46:23.500: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2024-08-26 09:47:34.823] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:34.831] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:34.835] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:34.835] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:45.459] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:45.468] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:45.471] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:45.471] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:49.599] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:49.611] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:49.631] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:47:49.673] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-08-26 09:51:45.557] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:51:45.596] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:51:45.604] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:53:26.970] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:53:26.997] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:53:27.001] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:55:58.000] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:55:58.010] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:55:58.013] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 09:55:58.013] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+
+(waybar:32977): Gtk-CRITICAL **: 10:08:24.110: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:32977): Gtk-CRITICAL **: 10:08:24.110: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2024-08-26 10:15:51.829] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 10:15:51.840] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-08-26 10:15:51.844] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+
+(wofi:44303): Gtk-CRITICAL **: 10:26:08.844: gtk_widget_set_size_request: assertion 'height >= -1' failed
+Gdk-Message: 10:26:10.285: Error reading events from display: Connection reset by peer

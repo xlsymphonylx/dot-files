@@ -1,0 +1,21 @@
+2024/09/03-22:40:09.929 8c9 Reusing MANIFEST /home/symphony/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2024/09/03-22:40:09.937 8c9 Recovering log #414
+2024/09/03-22:40:10.063 8c9 Reusing old log /home/symphony/.config/Slack/Local Storage/leveldb/000414.log 
+2024/09/03-22:41:19.574 8ca Level-0 table #418: started
+2024/09/03-22:41:19.664 8ca Level-0 table #418: 17532 bytes OK
+2024/09/03-22:41:19.697 8ca Delete type=0 #414
+2024/09/03-22:42:19.583 8ca Level-0 table #420: started
+2024/09/03-22:42:19.627 8ca Level-0 table #420: 14292 bytes OK
+2024/09/03-22:42:19.661 8ca Delete type=0 #417
+2024/09/03-22:42:19.662 8ca Compacting 4@0 + 1@1 files
+2024/09/03-22:42:19.684 8ca Generated table #421@0: 15 keys, 17245 bytes
+2024/09/03-22:42:19.684 8ca Compacted 4@0 + 1@1 files => 17245 bytes
+2024/09/03-22:42:19.717 8ca compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/03-22:42:19.718 8ca Delete type=2 #418
+2024/09/03-22:42:19.718 8ca Delete type=2 #420
+2024/09/03-22:42:19.718 8ca Delete type=2 #413
+2024/09/03-22:42:19.718 8ca Delete type=2 #411
+2024/09/03-22:42:19.719 8ca Delete type=2 #415
+2024/09/03-23:00:19.576 8ca Level-0 table #423: started
+2024/09/03-23:00:19.622 8ca Level-0 table #423: 14411 bytes OK
+2024/09/03-23:00:19.656 8ca Delete type=0 #419

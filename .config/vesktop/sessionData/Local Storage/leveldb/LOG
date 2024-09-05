@@ -1,0 +1,45 @@
+2024/09/04-08:34:21.483 7bd Reusing MANIFEST /home/symphony/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/09/04-08:34:21.487 7bd Recovering log #138
+2024/09/04-08:34:21.487 7bd Reusing old log /home/symphony/.config/vesktop/sessionData/Local Storage/leveldb/000138.log 
+2024/09/04-10:44:10.611 7bf Level-0 table #142: started
+2024/09/04-10:44:10.633 7bf Level-0 table #142: 19730 bytes OK
+2024/09/04-10:44:10.667 7bf Delete type=0 #138
+2024/09/04-10:44:10.667 7bf Compacting 4@0 + 1@1 files
+2024/09/04-10:44:10.690 7bf Generated table #143@0: 42 keys, 32125 bytes
+2024/09/04-10:44:10.690 7bf Compacted 4@0 + 1@1 files => 32125 bytes
+2024/09/04-10:44:10.724 7bf compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/04-10:44:10.724 7bf Delete type=2 #139
+2024/09/04-10:44:10.724 7bf Delete type=2 #142
+2024/09/04-10:44:10.724 7bf Delete type=2 #133
+2024/09/04-10:44:10.724 7bf Delete type=2 #130
+2024/09/04-10:44:10.724 7bf Delete type=2 #136
+2024/09/04-11:28:49.076 7bd Level-0 table #145: started
+2024/09/04-11:28:49.124 7bd Level-0 table #145: 18954 bytes OK
+2024/09/04-11:28:49.158 7bd Delete type=0 #141
+2024/09/04-11:47:54.328 7bf Level-0 table #147: started
+2024/09/04-11:47:54.375 7bf Level-0 table #147: 37336 bytes OK
+2024/09/04-11:47:54.408 7bf Delete type=0 #144
+2024/09/04-12:21:46.976 7bf Level-0 table #149: started
+2024/09/04-12:21:47.007 7bf Level-0 table #149: 18026 bytes OK
+2024/09/04-12:21:47.053 7bf Delete type=0 #146
+2024/09/04-13:09:53.357 7bf Level-0 table #151: started
+2024/09/04-13:09:53.408 7bf Level-0 table #151: 36660 bytes OK
+2024/09/04-13:09:53.442 7bf Delete type=0 #148
+2024/09/04-13:09:53.442 7bf Compacting 4@0 + 1@1 files
+2024/09/04-13:09:53.464 7bf Generated table #152@0: 42 keys, 31934 bytes
+2024/09/04-13:09:53.465 7bf Compacted 4@0 + 1@1 files => 31934 bytes
+2024/09/04-13:09:53.498 7bf compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/04-13:09:53.499 7bf Delete type=2 #151
+2024/09/04-13:09:53.499 7bf Delete type=2 #143
+2024/09/04-13:09:53.499 7bf Delete type=2 #149
+2024/09/04-13:09:53.499 7bf Delete type=2 #145
+2024/09/04-13:09:53.499 7bf Delete type=2 #147
+2024/09/04-15:28:05.451 7bd Level-0 table #154: started
+2024/09/04-15:28:05.496 7bd Level-0 table #154: 46682 bytes OK
+2024/09/04-15:28:05.530 7bd Delete type=0 #150
+2024/09/04-15:58:35.385 7bd Level-0 table #156: started
+2024/09/04-15:58:35.437 7bd Level-0 table #156: 21782 bytes OK
+2024/09/04-15:58:35.471 7bd Delete type=0 #153
+2024/09/04-16:35:16.827 7bf Level-0 table #158: started
+2024/09/04-16:35:16.841 7bf Level-0 table #158: 32925 bytes OK
+2024/09/04-16:35:16.964 7bf Delete type=0 #155

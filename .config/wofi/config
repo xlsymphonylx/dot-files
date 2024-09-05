@@ -1,0 +1,7 @@
+[settings]
+show-icons=true
+columns=1
+border=2
+prompt=What now, stranger: 
+terminal=kitty
+width=20%

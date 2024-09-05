@@ -1,0 +1,13 @@
+2024/09/04-15:34:34.257 aae8 Reusing MANIFEST /home/symphony/.config/google-chrome/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/04-15:34:34.257 aae8 Recovering log #7
+2024/09/04-15:34:34.259 aae8 Reusing old log /home/symphony/.config/google-chrome/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000007.log 
+2024/09/04-15:34:34.468 aade Level-0 table #11: started
+2024/09/04-15:34:34.516 aade Level-0 table #11: 120362 bytes OK
+2024/09/04-15:34:34.573 aade Delete type=0 #7
+2024/09/04-15:34:34.573 aade Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 4403 : 1
+2024/09/04-15:34:34.573 aade Compacting 1@0 + 1@1 files
+2024/09/04-15:34:34.630 aade Generated table #12@0: 1681 keys, 49612 bytes
+2024/09/04-15:34:34.630 aade Compacted 1@0 + 1@1 files => 49612 bytes
+2024/09/04-15:34:34.665 aade compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/04-15:34:34.665 aade Delete type=2 #11
+2024/09/04-15:34:34.665 aade Manual compaction at level-0 from '\x00\x05\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 4403 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

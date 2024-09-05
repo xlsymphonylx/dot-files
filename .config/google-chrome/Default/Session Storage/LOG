@@ -1,0 +1,22 @@
+2024/09/04-15:34:33.853 4 Reusing MANIFEST /home/symphony/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2024/09/04-15:34:33.854 4 Recovering log #9
+2024/09/04-15:34:33.854 4 Level-0 table #12: started
+2024/09/04-15:34:33.884 4 Level-0 table #12: 15339 bytes OK
+2024/09/04-15:34:33.884 4 Recovering log #11
+2024/09/04-15:34:33.885 4 Reusing old log /home/symphony/.config/google-chrome/Default/Session Storage/000011.log 
+2024/09/04-15:34:33.918 4 Delete type=0 #9
+2024/09/04-15:41:55.218 5 Level-0 table #14: started
+2024/09/04-15:41:55.260 5 Level-0 table #14: 17570 bytes OK
+2024/09/04-15:41:55.295 5 Delete type=0 #11
+2024/09/04-15:46:36.228 5 Level-0 table #16: started
+2024/09/04-15:46:36.504 5 Level-0 table #16: 19602 bytes OK
+2024/09/04-15:46:36.660 5 Delete type=0 #13
+2024/09/04-15:46:36.660 5 Compacting 4@0 + 1@1 files
+2024/09/04-15:46:36.684 5 Generated table #17@0: 178 keys, 22097 bytes
+2024/09/04-15:46:36.684 5 Compacted 4@0 + 1@1 files => 22097 bytes
+2024/09/04-15:46:36.718 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/04-15:46:36.718 5 Delete type=2 #14
+2024/09/04-15:46:36.718 5 Delete type=2 #12
+2024/09/04-15:46:36.718 5 Delete type=2 #16
+2024/09/04-15:46:36.718 5 Delete type=2 #8
+2024/09/04-15:46:36.718 5 Delete type=2 #10
